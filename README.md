@@ -1,4 +1,4 @@
-# Android Development
+# Android Development Basic
 
 Personal Project on Android Application Development. 
 This repository consists of several applications I built along the way of learning Android. 
