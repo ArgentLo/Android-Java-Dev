@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">3.MusicStructure</string>
+
+    <string name="now_artist">Artist</string>
+    <string name="now_genre">Genre</string>
+    <string name="now_search">Search</string>
+
+    <string name="btn_find">Find</string>
+    <string name="search_hint">Shape of you</string>
+    <string name="now_playing_title">Now Playing</string>
+    <string name="now_playing_value">Eminem - Mockingbird</string>
+
+    <string name="title_artist">Music App - By Artist</string>
+    <string name="title_genre">Music App - By Genre </string>
+    <string name="title_playlist">Music App - By Playlist</string>
+
+    <string name="artist_help">This page displays list of songs sorted by artist.\n(powered by Argent)
+    </string>
+    <string name="genre_help">This page displays list of songs sorted by genre.\n(powered by Argent)
+    </string>
+    <string name="playlist_help">This page allows you to search artists, albums, and track names.\n(powered by Argent)
+    </string>
+</resources>
