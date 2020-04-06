@@ -31,10 +31,13 @@ git clone --recursive https://github.com/ArgentLo/Android-Dev-Basic.git
 ### Notice
 
 * Some application resources collected from the internet, including "drawable", code snippets, etc.
-
 * Most applications require **internet connection**.
 
-  
 
-  <p align="center">👻 May the joys last and the works pay off 👻</p>
-  <p align="center">👻 Have fun! 👻</p>
+
+
+
+---
+
+<p align="center"> May the joys last and the works pay off </p>
+<p align="center">👻 Have fun! 👻</p>
