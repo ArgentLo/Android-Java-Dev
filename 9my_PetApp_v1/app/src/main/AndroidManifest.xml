@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.a9my_petapp_v1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.example.a9my_petapp_v1.CatalogActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.a9my_petapp_v1.EditorActivity"
+            android:label="@string/editor_activity_title_new_pet"
+            android:parentActivityName="com.example.a9my_petapp_v1.CatalogActivity"
+            android:theme="@style/EditorTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.a9my_petapp_v1.CatalogActivity" />
+        </activity>
+
+        <provider
+            android:name="com.example.a9my_petapp_v1.data.PetProvider"
+            android:authorities="com.example.a9my_petapp_v1"
+            android:exported="false" />
+
+    </application>
+
+</manifest>
