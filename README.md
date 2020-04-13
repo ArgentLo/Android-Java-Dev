@@ -10,7 +10,7 @@ This repository consists of several applications I built along the way of learni
 
 * [Android Studio](http://developer.android.com/intl/es/sdk/index.html)
 
-* [Android SDK Tools](http://developer.android.com/intl/es/sdk/index.html#Other)
+* [Android SDK Tools](http://developer.android.com/intl/es/sdk/index.html)
 
 * [Android NDK](http://developer.android.com/intl/es/ndk/downloads/index.html)
 
