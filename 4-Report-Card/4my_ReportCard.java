@@ -8,6 +8,7 @@ public class ReportCard {
     private static final int mPHYSICS = 1;
     private static final int mCHEMISTRY = 2;
     private static final int mMATHS = 3;
+
     //Term case
     private static final int mMID = 1;
     private static final int mEND = 2;
@@ -91,7 +92,8 @@ public class ReportCard {
     }
     /** Getter functions */
     public int getMarks(int subject, int term, int marks){
-        switch (term){
+
+	  switch (term){
             case mMID:
                 switch (subject){
                     case mCHEMISTRY:
