@@ -2,9 +2,9 @@
 
 Personal Project on Android Application Development. 
 
-This repository consists of several applications I built along the way of learning Android. 
+The main materials are from the [Udacity **Advanced Android Java** Online Course](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) provide by **Google**.
 
-The main materials are from the [Udacity Advanced Android Java Online Course](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) provide by **Google**.
+This repository consists of several applications I built along the way of learning Android. 
 
 
 ### Setup development environment
