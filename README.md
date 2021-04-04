@@ -20,7 +20,7 @@ This repository consists of several applications I built along the way of learni
 * Get the source code.
 
 ```
-git clone --recursive https://github.com/ArgentLo/Android-Dev-Basic.git
+git clone --recursive https://github.com/ArgentLo/Android-Java-Dev.git
 ```
 
 * Install in your system with the Android NDK 14+ and Android NDK 16+.
